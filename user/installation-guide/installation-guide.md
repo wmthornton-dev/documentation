@@ -11,7 +11,7 @@ After reading this guide, you will know:
 * How to set up a Virtual Machine. 
 * How to install GhostBSD.
   * How to install GhostBSD using the entire disk drive. 
-  * How to install alongside other opereating system.
+  * How to install alongside other operating system(s).
 * Troubleshooting the installer and live media.
 
 ```{toctree}
